@@ -8,7 +8,7 @@ import { timeout } from 'ember-concurrency';
 import { later } from '@ember/runloop';
 import { task } from 'ember-concurrency-decorators';
 import { format as formatDate } from 'date-fns';
-import getWithDefault from '@fleetbase/ember-core/utils/get-with-default';
+import getWithDefault from '@lipagas/ember-core/utils/get-with-default';
 
 export default class ApiKeysIndexController extends Controller {
     /**
@@ -469,7 +469,7 @@ export default class ApiKeysIndexController extends Controller {
      * @void
      */
     @action viewRequestLogs(apiKey) {
-        return this.universe.transitionToEngineRoute('@fleetbase/dev-engine', 'logs.index', {
+        return this.universe.transitionToEngineRoute('@lipagas/dev-engine', 'logs.index', {
             queryParams: { key: apiKey.id },
         });
     }

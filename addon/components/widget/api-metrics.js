@@ -3,7 +3,7 @@ import { tracked } from '@glimmer/tracking';
 import { inject as service } from '@ember/service';
 import { action, computed } from '@ember/object';
 import { startOfDay, sub } from 'date-fns';
-import makeDataset from '@fleetbase/ember-core/utils/make-dataset';
+import makeDataset from '@lipagas/ember-core/utils/make-dataset';
 
 export default class WidgetApiMetricsComponent extends Component {
     @service store;

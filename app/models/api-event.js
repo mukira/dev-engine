@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/models/api-event';
+export { default } from '@lipagas/dev-engine/models/api-event';

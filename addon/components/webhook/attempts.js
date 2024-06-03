@@ -3,7 +3,7 @@ import { inject as service } from '@ember/service';
 import { tracked } from '@glimmer/tracking';
 import { action } from '@ember/object';
 import { none } from '@ember/object/computed';
-import copyToClipboard from '@fleetbase/ember-core/utils/copy-to-clipboard';
+import copyToClipboard from '@lipagas/ember-core/utils/copy-to-clipboard';
 
 export default class WebhookAttemptsComponent extends Component {
     /**

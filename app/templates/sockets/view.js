@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/templates/sockets/view';
+export { default } from '@lipagas/dev-engine/templates/sockets/view';

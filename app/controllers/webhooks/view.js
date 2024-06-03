@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/controllers/webhooks/view';
+export { default } from '@lipagas/dev-engine/controllers/webhooks/view';

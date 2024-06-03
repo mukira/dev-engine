@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/templates/logs/view';
+export { default } from '@lipagas/dev-engine/templates/logs/view';

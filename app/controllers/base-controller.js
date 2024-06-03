@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/controllers/base-controller';
+export { default } from '@lipagas/dev-engine/controllers/base-controller';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/templates/home/index';
+export { default } from '@lipagas/dev-engine/templates/home/index';

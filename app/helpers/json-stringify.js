@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/helpers/json-stringify';
+export { default } from '@lipagas/dev-engine/helpers/json-stringify';

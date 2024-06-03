@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/components/api-request-log/details';
+export { default } from '@lipagas/dev-engine/components/api-request-log/details';

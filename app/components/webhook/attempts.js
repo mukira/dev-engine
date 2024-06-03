@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/components/webhook/attempts';
+export { default } from '@lipagas/dev-engine/components/webhook/attempts';

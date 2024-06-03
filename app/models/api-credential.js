@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/models/api-credential';
+export { default } from '@lipagas/dev-engine/models/api-credential';

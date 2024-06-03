@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/dev-engine/controllers/events/index';
+export { default } from '@lipagas/dev-engine/controllers/events/index';
